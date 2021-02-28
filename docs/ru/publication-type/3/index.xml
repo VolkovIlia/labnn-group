@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Лаборатория Неорганических наноматериалов</title>
-    <link>/ru/publication-type/3/</link>
-      <atom:link href="/ru/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkovilia.github.io/labnn-group/ru/publication-type/3/</link>
+      <atom:link href="https://volkovilia.github.io/labnn-group/ru/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><copyright>© Goldberg Research Group</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://volkovilia.github.io/labnn-group/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>/ru/publication-type/3/</link>
+      <link>https://volkovilia.github.io/labnn-group/ru/publication-type/3/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/ru/publication/preprint/</link>
+      <link>https://volkovilia.github.io/labnn-group/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/ru/publication/preprint/</guid>
+      <guid>https://volkovilia.github.io/labnn-group/ru/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
